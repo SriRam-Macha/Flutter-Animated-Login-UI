@@ -1,7 +1,7 @@
 # loginui
 
 A new Flutter project.
-
+I used the flare 2d animations(https://pub.dev/packages/flare_flutter).
 
 ![untitled](https://user-images.githubusercontent.com/53489400/81390172-a0c9d780-9138-11ea-8b64-544fdc4dd01a.gif)
 
